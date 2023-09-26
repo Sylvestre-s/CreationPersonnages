@@ -1,0 +1,25 @@
+.image {
+  height: 45%;
+  width: 45%;
+  margin: auto;
+  display: block;
+  margin-top: 6%;
+  margin-bottom: 6%;
+}
+
+.image:hover {
+  height: 55%;
+  width: 55%;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transform: scale(1.5);
+}
+
+.texte {
+  text-align: center;
+  color: white;
+  font-family: "Bungee";
+  margin-top: 5%;
+}

@@ -1,0 +1,14 @@
+.label {
+  font-family: "Bungee";
+  color: gold;
+  margin-top: 2%;
+  margin-bottom: 1%;
+  margin-left: 3%;
+  margin-right: 2%;
+}
+
+.input {
+  font-family: "Bungee";
+  color: white;
+  background-color: rgb(111, 66, 193);
+}
